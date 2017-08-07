@@ -9,7 +9,7 @@
 - Plug n Play
 
 # Credit
-- Traversy Media
+- Paul Halliday : https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg
 
 ## Contributing
 
